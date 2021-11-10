@@ -6,6 +6,8 @@ Yapay Zeka ve Siber Güvenlik öğreniyorum.
 Yapay Zeka ve Siber Güvenlik konusunda yardım arıyorum.
 Bana aligundogarx@gmail.com mail adresimden ulaşabilirsiniz.
 
+Notlar: https://toothsome-spot-360.notion.site/niversite-Yaz-l-m-9e7f99cd5b7e4e5c8e420c0b6b3cc10d
+
 
 <!--
 **aligundogar/aligundogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

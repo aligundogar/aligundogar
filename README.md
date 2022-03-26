@@ -3,7 +3,6 @@ Ben Ali, Bilgisayar Teknolojileri öğrencisiyim.
 Yeni bilgiler öğrenmek ve gelişmek öncelikli hedefimdir.
 C ve C++ dillerinde çalışıyorum
 Yapay Zeka ve Siber Güvenlik öğreniyorum.
-Yapay Zeka ve Siber Güvenlik konusunda yardım arıyorum.
 Bana aligundogarx@gmail.com mail adresimden ulaşabilirsiniz.
 <!--
 **aligundogar/aligundogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
